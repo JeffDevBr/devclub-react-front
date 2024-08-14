@@ -1,8 +1,19 @@
-# React + Vite
+<h1>Dev Burger</h1>
+<p>Este projeto é um desafio de React e Node que consiste em um aplicativo front-end integrado a um back-end simples. O objetivo é criar um sistema básico de gerenciamento de pedidos, onde os usuários podem adicionar novos pedidos e visualizar e deletar todos os pedidos existentes.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://github.com/JeffDevBr/desafio-react-backend"> Back-End aqui! </a>
 
-Currently, two official plugins are available:
+<a href="https://devclub-burger-order.netlify.app/">Deploy do app aqui!</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<img width="800px" src="https://raw.githubusercontent.com/JeffDevBr/devclub-react-nodejs/af3e7c3762e4644f5f88e4ceef1ef5a3c75953eb/src/assets/projeto.png" alt="Imagem projeto" />
+
+
+  <h3>Tecnologias Utilizadas</h3>
+  <ul>
+    <li>Front-End: React, Axios, styled-components</li>
+    <li>Back-End: Express.js</li>
+    <li>Hospedagem: Netlify (para o front-end) e Render (para o back-end)</li>
+    <li>Versionamento: GitHub</li>
+    <li>Styled-components</li>
+  </ul>
